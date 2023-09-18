@@ -1,0 +1,16 @@
+
+  body{
+  	/*background-image: url("C:/Users/Dell/Desktop/Bhabani/chilmil.jpg");*/
+  	background-color:lightyellow;
+    background-repeat:repeat-x;
+    background-position:;
+ }
+ .box{
+ 	width:600px;
+ 	margin:auto;
+ 	height:350px;
+ 	overflow:auto;
+ 	float:left;
+ 	border-radius:25px;
+ 	background-color:rgba(0,0,0,0.15);
+ }  
